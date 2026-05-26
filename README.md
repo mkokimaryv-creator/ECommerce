@@ -71,7 +71,7 @@ CALCULATE(
 
 **Bookmarks:**
 Used to capture the available order status: *delivered*, 
-![DeliveredView](/Images/Delivered%20View.png)
+![DeliveredView](/Images/NewDeliveredView.png)
 
 *pending* 
 ![Pending View](/Images/Pending%20View.png)
