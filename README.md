@@ -74,7 +74,7 @@ Used to capture the available order status: *delivered*,
 ![DeliveredView](/Images/NewDeliveredView.png)
 
 *pending* 
-![Pending View](/Images/NewPending%20View.png)
+![Pending View](/Images/NewPendingView.png)
 
 and *cancelled*
 ![CancelledView](/Images/NewCancelledView.png)
