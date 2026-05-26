@@ -1,5 +1,5 @@
 # eCommerce Sales Analysis Dashboard
-![MainOverview](/Images/MainOverview.png)
+![MainOverview](/Images/NewMainOverview.png)
 
 ## Introduction
 
