@@ -96,11 +96,11 @@ and *cancelled*
 To show *Total sales, customers, and orders*. Also used KPI visuals to compare *current sales vs Last Month and Vs Last Year*
 **Line Chart:**To show the total sales trends over time
 **Bar Chart:** to show *totals sales by country, age group, customers, categories, products*
-**Pie Chart:** to show percentage total contribution to the total sales
-![OrderStatusView](/Images/OrderStatusview.png)
+**Line Chart:** to show *cancelled Orders are Now Rival Delivered Orders raising a Growing Concern*
+![OrderStatusView](/Images/OrderStatusTrends.png)
 
 ## Conclusion 
 Based on the aggregated sales data across all regions, the Electronics category emerged as the top-performing segment, with the iPhone 14 leading as the most purchased product globally. Demographic analysis indicates that the majority of our customer base falls within the adult age group, suggesting strong engagement from this segment.
-While total sales reached R7.4 million, it's notable that R2.8 million over 38% of revenue was lost due to order cancellations and product returns. This represents a significant leakage in potential revenue and warrants further investigation. Understanding the underlying causes—whether related to product issues, delivery delays, customer expectations, or other factors—will be critical to improving retention and reducing future losses.
+While total sales reached R7.4 million, it's notable that R2.8 million over 38% of revenue was lost due to order cancellations and product returns. This represents a significant leakage in potential revenue and warrants further investigation. Cancelled orders are consistently tracking at the same level as delivered and in several periods higher than delivered orders, indicating a systemic breakdown in the order to delivery process. Immediate investigation into cancellation drivers is required to protect revenue and customer retention.
 
 
