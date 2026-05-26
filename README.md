@@ -74,10 +74,10 @@ Used to capture the available order status: *delivered*,
 ![DeliveredView](/Images/NewDeliveredView.png)
 
 *pending* 
-![Pending View](/Images/Pending%20View.png)
+![Pending View](/Images/NewPending%20View.png)
 
 and *cancelled*
-![CancelledView](/Images/CancelledView.png)
+![CancelledView](/Images/NewCancelledView.png)
 
 **Drillthrough:**
 *Country details*
