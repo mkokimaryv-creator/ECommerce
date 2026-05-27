@@ -97,7 +97,7 @@ To show *Total sales, customers, and orders*. Also used KPI visuals to compare *
 **Line Chart:**To show the total sales trends over time
 **Bar Chart:** to show *totals sales by country, age group, customers, categories, products*
 **Line Chart:** to show *cancelled Orders are Now Rival Delivered Orders raising a Growing Concern*
-![OrderStatusView](/Images/OrderStatusTrends.png)
+![OrderStatusView](/Images/NewOrderStatusTrends.png)
 
 ## Conclusion 
 Based on the aggregated sales data across all regions, the Electronics category emerged as the top-performing segment, with the iPhone 14 leading as the most purchased product globally. Demographic analysis indicates that the majority of our customer base falls within the adult age group, suggesting strong engagement from this segment.
